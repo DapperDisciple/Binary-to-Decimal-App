@@ -7,7 +7,6 @@ into its decimal (base 10) equivalent.
 ## How to Run
 
 1. Compile the program:
-   ```
    javac Bin2Dec.java
 ````
 
