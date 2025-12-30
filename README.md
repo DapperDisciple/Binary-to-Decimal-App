@@ -39,5 +39,3 @@ Decimal value: 11
 
 NaDear Raymond
 
-```
-
