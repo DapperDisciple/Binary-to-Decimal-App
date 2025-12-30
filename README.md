@@ -13,7 +13,7 @@ into its decimal (base 10) equivalent.
 
 2. Run the program:
 
-   ```bash
+   ```
    java Bin2Dec
    ```
 
