@@ -1,5 +1,4 @@
 # Binary-to-Decimal-App
-# Bin2Dec
 
 **Tier:** 1-Beginner
 
